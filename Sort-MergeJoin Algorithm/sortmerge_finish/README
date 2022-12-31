@@ -1,0 +1,12 @@
+###
+
+Please use the following prompt to execute.
+Program will produce the run file.
+"emp_buf.csv", "dept_buf.csv"
+Thees two files are run files.
+The result will write in the "Join.csv"
+
+###
+
+$ g++ -std=c++11 SortMergeJoin.cpp -o main3
+$ ./main3
